@@ -2873,7 +2873,7 @@
           "lib/netcoreapp1.0/YoutubeExplode.dll": {}
         }
       },
-      "NadekoBot.Core/1.0.0": {
+      "Kotocorn.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
@@ -2902,10 +2902,10 @@
           "YoutubeExplode": "4.1.0"
         },
         "compile": {
-          "bin/placeholder/NadekoBot.Core.dll": {}
+          "bin/placeholder/Kotocorn.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/NadekoBot.Core.dll": {}
+          "bin/placeholder/Kotocorn.Core.dll": {}
         }
       }
     }
@@ -8723,16 +8723,16 @@
         "youtubeexplode.nuspec"
       ]
     },
-    "NadekoBot.Core/1.0.0": {
+    "Kotocorn.Core/1.0.0": {
       "type": "project",
-      "path": "../../NadekoBot.Core/NadekoBot.Core.csproj",
-      "msbuildProject": "../../NadekoBot.Core/NadekoBot.Core.csproj"
+      "path": "../../NadekoBot.Core/Kotocorn.Core.csproj",
+      "msbuildProject": "../../NadekoBot.Core/Kotocorn.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Microsoft.NETCore.App >= 2.0.0",
-      "NadekoBot.Core >= 1.0.0"
+      "Kotocorn.Core >= 1.0.0",
+      "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
   "packageFolders": {
@@ -8743,9 +8743,9 @@
   "project": {
     "version": "2.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jayd\\OneDrive\\Development\\Kotocorn\\src\\NadekoBot\\NadekoBot.csproj",
-      "projectName": "NadekoBot",
-      "projectPath": "C:\\Users\\jayd\\OneDrive\\Development\\Kotocorn\\src\\NadekoBot\\NadekoBot.csproj",
+      "projectUniqueName": "C:\\Users\\jayd\\OneDrive\\Development\\Kotocorn\\src\\NadekoBot\\Kotocorn.csproj",
+      "projectName": "Kotocorn",
+      "projectPath": "C:\\Users\\jayd\\OneDrive\\Development\\Kotocorn\\src\\NadekoBot\\Kotocorn.csproj",
       "packagesPath": "C:\\Users\\jayd\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jayd\\OneDrive\\Development\\Kotocorn\\src\\NadekoBot\\obj\\",
       "projectStyle": "PackageReference",
@@ -8772,8 +8772,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\jayd\\OneDrive\\Development\\Kotocorn\\NadekoBot.Core\\NadekoBot.Core.csproj": {
-              "projectPath": "C:\\Users\\jayd\\OneDrive\\Development\\Kotocorn\\NadekoBot.Core\\NadekoBot.Core.csproj"
+            "C:\\Users\\jayd\\OneDrive\\Development\\Kotocorn\\NadekoBot.Core\\Kotocorn.Core.csproj": {
+              "projectPath": "C:\\Users\\jayd\\OneDrive\\Development\\Kotocorn\\NadekoBot.Core\\Kotocorn.Core.csproj"
             }
           }
         }

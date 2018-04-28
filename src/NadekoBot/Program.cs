@@ -1,8 +1,8 @@
-﻿using NadekoBot.Core.Services;
+﻿using Kotocorn.Core.Services;
 using System.Diagnostics;
 using System.Threading.Tasks;
 
-namespace NadekoBot
+namespace Kotocorn
 {
     public class Program
     {
@@ -12,13 +12,13 @@ namespace NadekoBot
                 && int.TryParse(args[0], out int shardId) 
                 && int.TryParse(args[1], out int parentProcessId))
             {
-                return new NadekoBot(shardId, parentProcessId)
+                return new Kotocorn(shardId, parentProcessId)
                     .RunAndBlockAsync(args);
             }
             else
             {
 #if DEBUG
-                var _ = new NadekoBot(0, Process.GetCurrentProcess().Id)
+                var _ = new Kotocorn(0, Process.GetCurrentProcess().Id)
                        .RunAsync(args);
 #endif
                 return new ShardsCoordinator()

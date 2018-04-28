@@ -1,0 +1,8 @@
+C:\Users\jayd\OneDrive\Development\Kotocorn\NadekoBot.Core\bin\Debug\netcoreapp2.0\Kotocorn.Core.deps.json
+C:\Users\jayd\OneDrive\Development\Kotocorn\NadekoBot.Core\bin\Debug\netcoreapp2.0\Kotocorn.Core.dll
+C:\Users\jayd\OneDrive\Development\Kotocorn\NadekoBot.Core\bin\Debug\netcoreapp2.0\Kotocorn.Core.pdb
+C:\Users\jayd\OneDrive\Development\Kotocorn\NadekoBot.Core\obj\Debug\netcoreapp2.0\Kotocorn.Core.csproj.CoreCompileInputs.cache
+C:\Users\jayd\OneDrive\Development\Kotocorn\NadekoBot.Core\obj\Debug\netcoreapp2.0\Kotocorn.Core.AssemblyInfoInputs.cache
+C:\Users\jayd\OneDrive\Development\Kotocorn\NadekoBot.Core\obj\Debug\netcoreapp2.0\Kotocorn.Core.AssemblyInfo.cs
+C:\Users\jayd\OneDrive\Development\Kotocorn\NadekoBot.Core\obj\Debug\netcoreapp2.0\Kotocorn.Core.dll
+C:\Users\jayd\OneDrive\Development\Kotocorn\NadekoBot.Core\obj\Debug\netcoreapp2.0\Kotocorn.Core.pdb

@@ -259,7 +259,7 @@
     "help_commands_instr": "Écrivez `{0}h NomDeLaCommande` pour voir l'aide spécifique à cette commande. Ex. : `{0}h {0}8ball`",
     "help_command_not_found": "Impossible de trouver cette commande. Veuillez vérifier qu'elle existe avant de réessayer.",
     "help_desc": "Description",
-    "help_donate": "Vous pouvez supporter le projet NadekoBot\nsur Patreon <{0}>\npar Paypal <{1}>\nN'oubliez pas de mettre votre nom discord ou ID dans le message.\n\n**Merci** ♥️",
+    "help_donate": "Vous pouvez supporter le projet Kotocorn\nsur Patreon <{0}>\npar Paypal <{1}>\nN'oubliez pas de mettre votre nom discord ou ID dans le message.\n\n**Merci** ♥️",
     "help_guide": "**Liste des Commandes** : <{0}>\n**La liste des guides et tous les documents peuvent être trouvés ici** : <{1}>",
     "help_list_of_commands": "Liste des commandes",
     "help_list_of_modules": "Liste des modules",

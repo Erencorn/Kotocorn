@@ -259,7 +259,7 @@
     "help_commands_instr": "输入`{0}h CommandName`可查看该指定命令的帮助。 例如 `{0} h> 8ball`",
     "help_command_not_found": "我找不到该命令。 请再次尝试之前验证该命令是否存在。",
     "help_desc": "描述",
-    "help_donate": "你可以在：\nPatreon <{0}>或\nPaypal <{1}>\n上支持NadekoBot项目\n不要忘记在邮件中留下你的discord名字或ID。\n\n**谢谢**♥️",
+    "help_donate": "你可以在：\nPatreon <{0}>或\nPaypal <{1}>\n上支持Kotocorn项目\n不要忘记在邮件中留下你的discord名字或ID。\n\n**谢谢**♥️",
     "help_guide": "**命令列表**：<{0}>\n**主机指南和文档可以在这里找到**：<{1}>",
     "help_list_of_commands": "命令列表",
     "help_list_of_modules": "组件列表",

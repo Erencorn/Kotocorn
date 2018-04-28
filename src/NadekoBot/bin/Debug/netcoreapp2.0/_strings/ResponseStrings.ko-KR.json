@@ -259,7 +259,7 @@
     "help_commands_instr": "`{0}h 명령어이름`을 입력해서 특정 명령어에 대한 도움말을 볼 수 있습니다.\n예시 : `{0}h {0}8ball`",
     "help_command_not_found": "입력하신 명령어를 찾을 수 없습니다. 입력하시기 전에 유효한 명령어인지 확인해주세요.",
     "help_desc": "설명",
-    "help_donate": "Patreon <{0}>이나\nPaypal <{1}>에서\nNadekoBot 프로젝트를 지원할 수 있습니다.\nDiscord 닉네임이나 ID를 메시지에 남겨 두는 것을 잊지 마세요.\n\n**감사합니다** ♥️",
+    "help_donate": "Patreon <{0}>이나\nPaypal <{1}>에서\nKotocorn 프로젝트를 지원할 수 있습니다.\nDiscord 닉네임이나 ID를 메시지에 남겨 두는 것을 잊지 마세요.\n\n**감사합니다** ♥️",
     "help_guide": "**명령어 목록**: <{0}>\n**호스팅 가이드와 문서는 여기서 찾을 수 있습니다**: <{1}>",
     "help_list_of_commands": "명령어 목록",
     "help_list_of_modules": "모듈 목록",

@@ -259,7 +259,7 @@
     "help_commands_instr": "Belirli bir komut hakkinda yardim icin, {0}h \"Komut Adı\" bu şekilde kullanınız. (Örneğin: {0}h >8ball).",
     "help_command_not_found": "Bu komutu bulamıyorum. Lütfen tekrar denemeden önce komutun var olduğunu doğrulayın.",
     "help_desc": "Tanıtım",
-    "help_donate": "NadekoBot projesini destekleyebilirsiniz \n Patreon <{0}> yada\n Paypal <{1}>\n Mesajda discord adınızı veya kimliğini bırakmayı unutma.\n \n**Teşekkür ederim** ♥️",
+    "help_donate": "Kotocorn projesini destekleyebilirsiniz \n Patreon <{0}> yada\n Paypal <{1}>\n Mesajda discord adınızı veya kimliğini bırakmayı unutma.\n \n**Teşekkür ederim** ♥️",
     "help_guide": "**Komutların listesi**: <{0}>\n**Rehber ve dokümanlar barındırma sayfasında bulunabilir**: <{1}>",
     "help_list_of_commands": "Komutların listesi",
     "help_list_of_modules": "Modüllerin listesi",
