@@ -704,7 +704,7 @@
     "utility_clpa_fail_already_title": "Już wynagrodzony\n",
     "utility_clpa_fail_conn": "Twoje konto Discord może nie być połączone z Patreon'em. Jeśli nie jesteś pewien co to oznacza lub nie wiesz jak je połączyć - otwórz [stonę z ustawieniami konta Patreon](https://patreon.com/settings/account) i kliknij przycisk \"Connect to discord\" (połącz z Discord).",
     "utility_clpa_fail_conn_title": "Konto Discord nie połączone z Patreon",
-    "utility_clpa_fail_sup": "Aby móc odebrać nagrodę musisz wesprzeć projekt Nadeko na Parteon. Możesz użyć komendy {0} żeby dostać link.",
+    "utility_clpa_fail_sup": "Aby móc odebrać nagrodę musisz wesprzeć projekt Kotocorn na Parteon. Możesz użyć komendy {0} żeby dostać link.",
     "utility_clpa_fail_sup_title": "Nie wspierasz",
     "utility_clpa_fail_wait": "Musisz poczekać kilka godzin po ofiarowaniu darowizny, jeśli tego nie zrobiłeś/aś, spróbuj ponownie później.",
     "utility_clpa_fail_wait_title": "Poczekaj chwilę",
